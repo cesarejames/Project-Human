@@ -1,0 +1,14 @@
+http://stayhealthyandwell.com/the-hunger-level-scale-for-weight-loss/
+
+HUNGER LEVELS
+
+#ff0000	- Level 1  - Famished - Stomach is totally empty
+#f0ff00	- Level 2  - Starving - Unable to concentrate, irritable
+#f0ff00 - Level 3  - Uncomfortably Hungry - Stomach rumbling
+#26ff00 - Level 4  - Slightly Hungry - First signs of hunger
+#26ff00 - Level 5  - Neutral and Comfortable - More or less satisfied
+#26ff00 - Level 6  - Completelty Satisfied - Just the right amount of food has been eaten
+#f0ff00 - Level 7  - Satisfied - slightly too full.
+#f0ff00 - Level 8  - Uncomfortably full - start to feel uneasy
+#f0ff00 - Level 9  - Very uncomfortable and full - loosening clothes
+#ff0000 - Level 10 - Completely stuffed and miserable - PUKE TIME
